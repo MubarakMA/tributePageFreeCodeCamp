@@ -72,3 +72,10 @@ li{
 .comment2{
     padding-top: 15px;
 }
+
+@media (width <= 780px)  {
+
+    .article-box{
+        margin: 0 10% 0 10%;
+    }
+}
